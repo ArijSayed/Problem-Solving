@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class EvenNumberOfDigits {
     public static void test(){
-        int[] arr={555,901,482,1771};
+        int[] arr={555,901,482,1771,10000};
         int result=findNumbers(arr);
         System.out.println("The input is: "+ Arrays.toString(arr));
         System.out.println("The output is: "+result);
