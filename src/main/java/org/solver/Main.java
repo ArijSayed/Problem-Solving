@@ -19,7 +19,8 @@ public class Main {
 //        SquaresOfSortedArray.test();
 //        MergeSortedArray.test();
 //        DuplicateZeroes.test();
-       RemoveElement.test();
+//        RemoveElement.test();
+        RemoveDuplicates.test();
 
         
 
