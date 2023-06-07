@@ -20,7 +20,8 @@ public class Main {
 //        MergeSortedArray.test();
 //        DuplicateZeroes.test();
 //        RemoveElement.test();
-        RemoveDuplicates.test();
+//        RemoveDuplicates.test();
+        CheckIfNAndItsDoubleExist.test();
 
         
 
