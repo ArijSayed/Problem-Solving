@@ -21,8 +21,8 @@ public class Main {
 //        DuplicateZeroes.test();
 //        RemoveElement.test();
 //        RemoveDuplicates.test();
-        CheckIfNAndItsDoubleExist.test();
-
+//        CheckIfNAndItsDoubleExist.test();
+        ValidMountainArray.test();
         
 
        
