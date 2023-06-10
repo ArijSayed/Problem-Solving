@@ -22,7 +22,8 @@ public class Main {
 //        RemoveElement.test();
 //        RemoveDuplicates.test();
 //        CheckIfNAndItsDoubleExist.test();
-        ValidMountainArray.test();
+//        ValidMountainArray.test();
+        SquaresOfEvenIndexedElements.test();
         
 
        
