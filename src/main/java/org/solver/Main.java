@@ -20,11 +20,12 @@ public class Main {
 //        MergeSortedArray.test();
 //        DuplicateZeroes.test();
 //        RemoveElement.test();
-//        RemoveDuplicates.test();
+//         RemoveDuplicates.test();
 //        CheckIfNAndItsDoubleExist.test();
 //        ValidMountainArray.test();
 //        SquaresOfEvenIndexedElements.test();
-        ReplaceElementsWithGreatestElementOnRightSide.test();
+//        ReplaceElementsWithGreatestElementOnRightSide.test();
+        MoveZeroes.test();
 
        
 
