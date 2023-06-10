@@ -23,8 +23,8 @@ public class Main {
 //        RemoveDuplicates.test();
 //        CheckIfNAndItsDoubleExist.test();
 //        ValidMountainArray.test();
-        SquaresOfEvenIndexedElements.test();
-        
+//        SquaresOfEvenIndexedElements.test();
+        ReplaceElementsWithGreatestElementOnRightSide.test();
 
        
 
