@@ -25,7 +25,8 @@ public class Main {
 //        ValidMountainArray.test();
 //        SquaresOfEvenIndexedElements.test();
 //        ReplaceElementsWithGreatestElementOnRightSide.test();
-        MoveZeroes.test();
+//        MoveZeroes.test();
+        ValidParentheses.test();
 
        
 
